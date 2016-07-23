@@ -1,4 +1,3 @@
-# app-shell
-App progressivo para a web seguindo o tutorial do codelab
+# Sample for Progressive Web App Sample
 
-https://codelabs.developers.google.com/codelabs/your-first-pwapp-pt/#0
+## Work in progress
